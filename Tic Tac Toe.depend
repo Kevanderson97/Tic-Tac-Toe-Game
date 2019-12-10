@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1461782280 source:c:\users\kevin\documents\ucf\spring 2016\computer science 1\tic tac toe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+
+1461847119 source:c:\users\kevin\documents\ucf\spring 2016\computer science 1\tic tac toe\tic tac toe.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
